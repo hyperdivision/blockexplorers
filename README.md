@@ -54,10 +54,10 @@ Four methods are exposed, however not all explorers support all methods:
     <th>Symbol</th>
     <th>Explorer</th>
     <th>URL</th>
-    <th>`.transaction()`</th>
-    <th>`.address()`</th>
-    <th>`.block()`</th>
-    <th>`.blockHeight()`</th>
+    <th><code>.transaction()</code></th>
+    <th><code>.address()</code></th>
+    <th><code>.block()</code></th>
+    <th><code>.blockHeight()</code></th>
   </thead>
   <tbody>
 <!-- BTC -->
@@ -100,7 +100,7 @@ Four methods are exposed, however not all explorers support all methods:
       <td rowspan=4>Bitcoin Testnet</td>
       <td rowspan=4><code>tBTC</code></td>
       <td>Blockstream</td>
-      <td><a href="https://blockstream.info/">https://blockstream.info/</a></td>
+      <td><a href="https://blockstream.info/testnet/">https://blockstream.info/testnet/</a></td>
       <td>Yes</td>
       <td>Yes</td>
       <td>Yes</td>
@@ -108,23 +108,7 @@ Four methods are exposed, however not all explorers support all methods:
     </tr>
     <tr>
       <td>Blockcypher</td>
-      <td><a href="https://live.blockcypher.com/btc/">https://live.blockcypher.com/btc/</a></td>
-      <td>Yes</td>
-      <td>Yes</td>
-      <td>Yes</td>
-      <td>Yes</td>
-    </tr>
-    <tr>
-      <td>Bitcoin.com</td>
-      <td><a href="https://explorer.bitcoin.com/btc">https://explorer.bitcoin.com/btc</a></td>
-      <td>Yes</td>
-      <td>Yes</td>
-      <td>Yes</td>
-      <td>Yes</td>
-    </tr>
-    <tr>
-      <td>BTC.com</td>
-      <td><a href="https://btc.com/">https://btc.com/</a></td>
+      <td><a href="https://live.blockcypher.com/btc-testnet/">https://live.blockcypher.com/btc-testnet/</a></td>
       <td>Yes</td>
       <td>Yes</td>
       <td>Yes</td>
