@@ -1,0 +1,29 @@
+{
+  "name": "@hyperdivision/blockexplorers",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^14.3.1",
+    "tape": "^4.11.0"
+  },
+  "scripts": {
+    "pretest": "standard",
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyperdivision/blockexplorers.git"
+  },
+  "keywords": [],
+  "author": "Hyperdivision ApS <opensource@hyperdivision.dk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyperdivision/blockexplorers/issues"
+  },
+  "homepage": "https://github.com/hyperdivision/blockexplorers#readme"
+}
