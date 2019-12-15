@@ -18,8 +18,8 @@ accessed by "dotting into":
 
 ```js
 const blockexplorers = require('@hyperdivision/blockexplorers')
-const btc = require('@hyperdivision/btc')
-const blockstreaminfo = require('@hyperdivision/btc/blockstreaminfo')
+const btc = require('@hyperdivision/blockexplorers/btc')
+const blockstreaminfo = require('@hyperdivision/blockexplorers/btc/blockstreaminfo')
 
 // these are all equivalent
 blockexplorers.btc.blockstreaminfo.blockHeight(0)
