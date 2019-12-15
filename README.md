@@ -97,8 +97,8 @@ Four methods are exposed, however not all explorers support all methods:
     </tr>
 <!-- tBTC -->    
     <tr>
-      <td rowspan=4>Bitcoin Testnet</td>
-      <td rowspan=4><code>tBTC</code></td>
+      <td rowspan=2>Bitcoin Testnet</td>
+      <td rowspan=2><code>tBTC</code></td>
       <td>Blockstream</td>
       <td><a href="https://blockstream.info/testnet/">https://blockstream.info/testnet/</a></td>
       <td>Yes</td>
