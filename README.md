@@ -144,6 +144,25 @@ Four methods are exposed, however not all explorers support all methods:
       <td></td>
       <td></td>
     </tr>
+<!-- ANT -->
+    <tr>
+      <td rowspan=2>Aragon</td>
+      <td rowspan=2><code>ANT</code></td>
+      <td>Etherscan</td>
+      <td><a href="https://etherscan.io/">https://etherscan.io/</a></td>
+      <td>Yes</td>
+      <td>Yes</td>
+      <td>Yes</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td>Ethplorer</td>
+      <td><a href="https://ethplorer.io/">https://ethplorer.io/</a></td>
+      <td>Yes</td>
+      <td>Yes</td>
+      <td>No</td>
+      <td>No</td>
+    </tr>
   </tbody>
 </table>
 
