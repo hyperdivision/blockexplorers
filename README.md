@@ -135,18 +135,10 @@ Four methods are exposed, however not all explorers support all methods:
     </tr>
 <!-- DSH -->
     <tr>
-      <td rowspan=2>Dash</td>
-      <td rowspan=2><code>DSH</code></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
+      <td rowspan=1>Dash</td>
+      <td rowspan=1><code>DSH</code></td>
+      <td>dash.org</td>
+      <td><a href="https://explorer.dash.org/">https://explorer.dash.org/</a></td>
       <td></td>
       <td></td>
       <td></td>
