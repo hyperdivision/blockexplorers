@@ -8,7 +8,7 @@ module.exports = {
     throw new Error('Not implemented yet')
   },
   block (block) {
-    return `https://explrorer.dash.org/insight/block/${block}`
+    return `https://explorer.dash.org/insight/block/${block}`
   },
   blockHeight (blockHeight) {
     throw new Error('Not implemented yet')
