@@ -116,8 +116,8 @@ Four methods are exposed, however not all explorers support all methods:
     </tr>
 <!-- ETH -->
     <tr>
-      <td rowspan=4>Ethereum</td>
-      <td rowspan=4><code>ETH</code></td>
+      <td rowspan=2>Ethereum</td>
+      <td rowspan=2><code>ETH</code></td>
       <td>Etherscan</td>
       <td><a href="https://etherscan.io/">https://etherscan.io/</a></td>
       <td>Yes</td>
@@ -135,8 +135,8 @@ Four methods are exposed, however not all explorers support all methods:
     </tr>
 <!-- DSH -->
     <tr>
-      <td rowspan=4>Dash</td>
-      <td rowspan=4><code>DSH</code></td>
+      <td rowspan=2>Dash</td>
+      <td rowspan=2><code>DSH</code></td>
       <td>Etherscan</td>
       <td><a href="https://etherscan.io/">https://etherscan.io/</a></td>
       <td>Yes</td>
