@@ -133,6 +133,25 @@ Four methods are exposed, however not all explorers support all methods:
       <td>No</td>
       <td>No</td>
     </tr>
+<!-- DSH -->
+    <tr>
+      <td rowspan=4>Dash</td>
+      <td rowspan=4><code>DSH</code></td>
+      <td>Etherscan</td>
+      <td><a href="https://etherscan.io/">https://etherscan.io/</a></td>
+      <td>Yes</td>
+      <td>Yes</td>
+      <td>Yes</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td>Ethplorer</td>
+      <td><a href="https://ethplorer.io/">https://ethplorer.io/</a></td>
+      <td>Yes</td>
+      <td>Yes</td>
+      <td>No</td>
+      <td>No</td>
+    </tr>
   </tbody>
 </table>
 
